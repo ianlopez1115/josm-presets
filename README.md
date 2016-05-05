@@ -1,2 +1,2 @@
 # josm-presets
-Presets for JOSM users mapping the Philippines.
+Presets for JOSM users.
