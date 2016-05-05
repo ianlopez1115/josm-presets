@@ -1,0 +1,14 @@
+meta {
+    title: "Winter Gritting";   /* title shown in the menu */
+    /* icon: "http://..."; small icon shown in the menu next to the title */
+    version: "0.0.1";
+    description: "Show gritting priorities";      
+    author: "Böhme, Christoph,ianlopez1115";
+    /* link: "http://...";       URL to the web page of the style */
+    min-josm-version: 6789;   /* the minimum JOSM version where this style works */
+}
+
+node[amenity=grit_bin]{
+  icon-image: "http://mappa-mercia.org/bham-gritting/grit-bin-20.png";
+  icon-width: 64;
+}
